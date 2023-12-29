@@ -21,14 +21,11 @@ Following the CNN-based diagnosis, the LangChain chatbot model takes over. This 
 
 ## Instructions
 
-1. **Environment Setup:**
-   - Install the required dependencies listed in the `requirements.txt` file.
-
-2. **CNN Models:**
+1. **CNN Models:**
    - Implement the CNN models for X-ray image analysis.
 
-3. **LangChain Chatbot:**
+2. **LangChain Chatbot:**
    - Set up the LangChain chatbot for interactive conversations.
 
-4. **Integration:**
+3. **Integration:**
    - Integrate CNN models and the LangChain chatbot to create the Health X-ray Pro system.
